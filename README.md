@@ -1,6 +1,6 @@
 # Hi there, I'm Manahil Raza 👋
 
-🎓 BS Software Engineering Student (4th Semester, 2nd Year)
+🎓 BS Software Engineering Student (5th Semester, 3rd Year)
 💻 Passionate about building web applications from frontend to backend
 🌱 Currently strengthening my skills in backend development & databases
 
